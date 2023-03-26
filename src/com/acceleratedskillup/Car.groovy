@@ -15,8 +15,4 @@ class Car {
         script.echo "model: ${model}"
         script.echo "brand: ${brand}"
     }
-
-    void printOutCar2() {
-        echo "number of doors is ${numberOfDoors}"
-    }
 }
