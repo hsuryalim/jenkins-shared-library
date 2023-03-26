@@ -17,6 +17,6 @@ class Car {
     }
 
     void printOutCar2() {
-        println "number of doors is ${numberOfDoors}"
+        echo "number of doors is ${numberOfDoors}"
     }
 }
