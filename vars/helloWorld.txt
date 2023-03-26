@@ -1,0 +1,2 @@
+helloWord(name, day)
+	print out name and day
