@@ -1,0 +1,2 @@
+def add(number,number)
+    return total numbers from arguments
