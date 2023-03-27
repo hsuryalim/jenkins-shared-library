@@ -40,7 +40,9 @@ def call(String env) {
             agent any
             stages {
                 stage('Else') {
-                    sh "echo Else..."
+                    steps {
+                         sh "echo Else..."
+                    }
                 }
             }
         }
