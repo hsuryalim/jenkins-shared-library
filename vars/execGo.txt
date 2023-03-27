@@ -1,2 +1,2 @@
 execGo
-    run go -v 
+    run go version

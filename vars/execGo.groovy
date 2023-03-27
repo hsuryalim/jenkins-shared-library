@@ -1,3 +1,3 @@
-def call (String options = '-v') {
+def call (String options = 'version') {
     sh "go ${options}"
 }
